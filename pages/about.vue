@@ -1,7 +1,7 @@
 <template>
   <div class="class">
 
-      <h1>asfasf</h1>
+      <h1>Learning Rebasig and amending commits</h1>
   </div>
 </template>
 
