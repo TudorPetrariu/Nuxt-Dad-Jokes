@@ -1,6 +1,6 @@
 # dadjokes
 
-> List of bad dad jokes
+> List of best bad dad jokes to learn working with nuxt
 
 ## Build Setup
 
