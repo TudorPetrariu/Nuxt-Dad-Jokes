@@ -1,7 +1,7 @@
 <template>
   <div class="class">
 
-      <h1>asfasf</h1>
+      <h1>About Base</h1>
   </div>
 </template>
 
