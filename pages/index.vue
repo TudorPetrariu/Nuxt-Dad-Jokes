@@ -20,6 +20,4 @@ data(){
 }
 </script>
 
-<style>
-
-</style>
+<style></style>
